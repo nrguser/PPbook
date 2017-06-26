@@ -28,3 +28,5 @@ int main()
 	keep_window_open();
 	return 0;
 }
+
+// Ctrl+F5 is a better way to prevent the window from closing, but will use this for the examples.
